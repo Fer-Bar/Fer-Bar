@@ -16,9 +16,9 @@ Here are some ideas to get you started: -->
 
 
 - 🔭 I’m open to work looking for my first job.
-- 🌱 I’m currently learning Django, Docker and REST API development.
-- 🍃 I’m looking to collaborate on IBM, that's my goal.
-- 💬 Ask me about Web Development with Python and Web Scraping.
+- 🌱 I’m currently learning DjangoRest Framework, Google Cloud and testing with pytest.
+- 🍃 I’m looking to collaborate on open source project.
+- 💬 Ask me about anything about Web Development and Web Scraping.
 - 📫 How to reach me: linofernando2703@gmail.com.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started with the web development because I loved it the show "Mr. Robot" lol.
