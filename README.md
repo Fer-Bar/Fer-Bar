@@ -75,6 +75,9 @@ Here are some ideas to get you started: -->
   <a href="#14">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />        
   </a>&nbsp;&nbsp;
+  <a href="#15">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />        
+  </a>&nbsp;&nbsp;
 
   
 </p>
