@@ -10,9 +10,6 @@
 <p>
   In my free time I dedicate my time to solve challenges in pages like Hackerrank and to solve doubts and questions about programming in Telegram and Discord     groups. I’m currently learning DjangoRest Framework, testing with Pytest and some stuff of Google Cloud.
 </p>
-<p>
-  If you are hiring I’m open to work.
-</p>
 <!--
 **Fer-Bar/Fer-Bar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
