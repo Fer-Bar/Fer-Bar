@@ -8,7 +8,7 @@
   I'm Fernando. I'm a passionate self-taught Python Developer who loves work with Flask and Django in the dark side of the web — backend. 
 </p>
 <p>
-  In my free time I dedicate my time to solve challenges in pages like Hackerrank and to solve doubts and questions about programming in Telegram and Discord     groups. I’m currently learning DjangoRest Framework, testing with Pytest and some stuff of Google Cloud.
+  In my free time I dedicate my time to solve challenges in pages like Hackerrank and to solve doubts and questions about programming in Telegram and Discord     groups. I’m currently learning DjangoRest Framework, testing with Pytest and some stuff of Azure Services.
 </p>
 <!--
 **Fer-Bar/Fer-Bar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
